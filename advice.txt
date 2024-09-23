@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 5 super good life advice:
 
 1. Smile.
@@ -9,3 +10,16 @@
 4. Get enough sleep. 
 
 5. Play some sports.
+=======
+5 super bad life advice:
+
+1. Cry.
+
+2. Take a shallow breath. 
+
+3. Drink little water. 
+
+4. Get enough work. 
+
+5. Play video games.
+>>>>>>> 996a5b0 (Created 5 bad advice)
